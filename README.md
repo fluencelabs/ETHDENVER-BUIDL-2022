@@ -25,7 +25,7 @@ Use Fluence and Aqua to create decentralized DApps or eliminate centralized chok
 
 * decentralized multi-EVM contract deployer and realtime transaction router to optimize gas costs or execution times
 
-* distributed NFT caching service(s) that solves the problem of privacy vulnerabilities arising from NFT marketplaces and wallets https://twitter.com/m_rtimr/status/1484477814510346241
+* distributed NFT caching service(s) that solves the problem of [privacy vulnerabilities](https://twitter.com/m_rtimr/status/1484477814510346241) arising from NFT marketplaces and wallets
 
 *The Bounty distribution is USDC 5000.00, USDC 2000.00 and USDC 1000.00 for first, second and third place, respectively.*
 
