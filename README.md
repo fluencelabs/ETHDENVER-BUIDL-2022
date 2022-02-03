@@ -61,4 +61,4 @@ Fluence has a variety of support options, components and building blocks availab
 
 ### Community
 
-TBD -- link to separate community repo.
+See the [community page](https://github.com/fluencelabs/examples/tree/main/community) for a list of contributions.
