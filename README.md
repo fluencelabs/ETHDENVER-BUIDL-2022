@@ -8,12 +8,12 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 
 ## Challenges And Prices
 
-### Off-chain Integration of EVMs -- 10 bounties @ USDC 500.00 each
+### Off-chain Integration of EVMs -- 10 bounties @ USDC 500.00 each (5 bounties for in-person, 5 bounties for vritual submissions)
 
 As a warmup challenge, use Fluence and Aqua to capture mint and transfer data for an NFT or ERC20 token of your choice from Ethereum and at least one more EVM, e.g., Near, and store the results on a decentralized data solution of your choice such as IPFS, Filecoin, Ceramic, Textile or OrbitDB.
 
 
-### Best DApp Using Fluence And Aqua -- USDC 8,000.00
+### Best DApp Using Fluence And Aqua -- 2 x USDC 4,000.00 (1 bounty for in-person, 1 bounty for vritual submission)
 
 Use Fluence and Aqua to create decentralized DApps or eliminate centralized chokepoints from your DApp. For example, create and enable:
 
@@ -30,12 +30,11 @@ Use Fluence and Aqua to create decentralized DApps or eliminate centralized chok
 *The Bounty distribution is USDC 5000.00, USDC 2000.00 and USDC 1000.00 for first, second and third place, respectively.*
 
 
-### Best Use Of Fluence And Aqua With Other #BUIDLWEEK Sponsors -- USDC 2,000.00
+### Best Use Of Fluence And Aqua With Other #BUIDLWEEK Sponsors -- 2 x USDC 1,000.00 (1 bounty for in-person, 1 bounties for vritual submissions)
 
 If you already have a DApp in the making utilizing IPFS or Filecoin or for the [ColoradoJam](https://www.ethdenver.com/coloradojam), submit your work in this category. The Bounty distribution of the USDC 2,000.00 is for the
 
 * Best Use of Fluence, Aqua and IPFS/Filecoin -- USD 1,000.00
-* Best Use of Fluence, Aqua and ColoradoJam -- USD 1,000.00
 
 ## Submission Requirements
 
