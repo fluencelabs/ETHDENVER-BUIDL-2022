@@ -32,7 +32,7 @@ Use Fluence and Aqua to create decentralized DApps or eliminate centralized chok
 
 ### Best Use Of Fluence And Aqua With Other #BUIDLWEEK Sponsors -- 2 x USDC 1,000.00 (1 bounty for in-person, 1 bounties for vritual submissions)
 
-If you already have a DApp in the making utilizing IPFS or Filecoin or for the [ColoradoJam](https://www.ethdenver.com/coloradojam), submit your work in this category. The Bounty distribution of the USDC 2,000.00 is for the
+If you already have a DApp in the making utilizing IPFS or Filecoin, submit your work in this category. The Bounty distribution of the USDC 2,000.00 is for the
 
 * Best Use of Fluence, Aqua and IPFS/Filecoin -- USD 1,000.00
 
