@@ -48,6 +48,9 @@ Judging is based on originality, functionality and completeness of the submissio
 
 Fluence has a variety of support options, components and building blocks available to guide and accelerate your #BUIDL.
 
+### Hackathon
+* [Hacker Quick Start](https://www.notion.so/fluencenetwork/How-to-hack-on-Fluence-97e20ba47ef04df2bfd0c234ee90537d)
+
 ### General
 
 * [Fluence Documentation](https://doc.fluence.dev/docs/)
